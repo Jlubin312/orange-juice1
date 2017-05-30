@@ -1,0 +1,104 @@
+body {
+  font-family: 'Quicksand', sans-serif;}
+nav {
+  background-color:orange;
+  height: 60px;
+  width: 110%;}
+nav .nav-wrapper {
+  margin: 0 auto;
+  width: 80%;}
+nav .logo {
+  color: black;
+  font-size: 36px;
+  font-weight: 300;
+  margin: 10px 0 20px 0;}
+nav .logo span {
+  font-weight: bold;}
+nav .logo sup {
+  font-size: 15px;}
+nav img {
+  vertical-align: bottom;
+  height: 50px;
+  width: 45px;}
+nav .links {
+  position: absolute;
+  text-align: right;
+  top: 25px;
+  right: 10%;}
+nav ul {
+  text-align: right;}
+nav li {
+  display: inline-block;
+  padding-left: 35px;}
+nav a {
+  color:black;}
+.search {
+  margin: 0 auto;
+  padding: 10px 0;
+  text-align: right;
+  width: 80%;}
+.search input {
+  background-color: #F1EEEC;
+  border: none;
+  margin: 0;
+  outline: 0;
+  padding: 15px;
+  width: 150px;}
+.search button {
+  background-color: #F1EEEC;
+  border: none;
+  color: #cbcccb;
+  display: inline-block;
+  height: 45px;
+  margin: 0;
+  width: 45px;}
+*
+.cta {
+  margin: 0 auto;
+  padding: 5px 0 40px 0;
+  width: 80%;}
+.image {
+  display: inline-block;
+  margin-top: 20px;}
+.main {
+  display: inline-block;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-left: 18px;
+  vertical-align: top;
+  width: 50%}
+.main p {
+  color:orange;
+  font-size: 38px;
+  font-weight: 300;
+  line-height: 1.5;}
+.main sup {
+  font-size: 12px;}
+.main span:first-child {
+  font-weight: 700;}
+.main span:nth-child(n+2) {
+  color: black;
+  font-weight: 700;}
+.main a {
+  font-size: 16px;
+  padding: 25px;
+  padding-top: 35px;}
+.button {
+  color:black;
+  cursor: pointer;
+  font-weight: 700;}
+.quote {
+  background-color: orange;
+  border: none;
+  margin-right: 30px;
+  padding: 15px 0;
+  width: 200px;}
+.studies {
+  background-color: lightblue;
+  border: none;
+  padding: 15px 0;
+  width: 200px;}
+footer {
+  background-color: lightblue;
+  height: 70px;
+  width: 100%;}
